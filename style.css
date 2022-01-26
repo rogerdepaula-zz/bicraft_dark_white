@@ -1,4 +1,12 @@
-
+:root {
+  --cor-primaria: #e21;
+  --cor-escura: #900;
+  --fundo-1: #f7f7f7;
+  --fundo-2: #ffffff;
+  --texto: #000000;
+  --texto-opaco: rgba(0, 0, 0, 0.2);
+  --onda: url(img/onda.svg);
+}
 
 body {
   font-family: Arial, Helvetica, sans-serif;
