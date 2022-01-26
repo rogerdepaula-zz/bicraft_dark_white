@@ -12,7 +12,7 @@
     --fundo-1: #111111;
     --fundo-2: #000000;
     --texto: #ffffff;
-    --texto-opaco: rgba(8, 7, 7, 0.2);
+    --texto-opaco: rgba(255, 255, 255, 0.2);
     --onda: url(img/onda-escura.svg);
   }
 }
