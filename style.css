@@ -7,7 +7,15 @@
   --texto-opaco: rgba(0, 0, 0, 0.2);
   --onda: url(img/onda.svg);
 }
-
+@media (prefers-color-scheme: dark) {
+  :root {
+    --fundo-1: #111111;
+    --fundo-2: #000000;
+    --texto: #ffffff;
+    --texto-opaco: rgba(8, 7, 7, 0.2);
+    --onda: url(img/onda-escura.svg);
+  }
+}
 body {
   font-family: Arial, Helvetica, sans-serif;
   margin: 0px;
